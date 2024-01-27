@@ -1,0 +1,4 @@
+1) volo Amsterdam cliente: cognome1 cliente1 Posti: 3 PrezzoTotale: 300 
+2) volo Bali cliente: cognome3 cliente3 Posti: 4 PrezzoTotale: 400 
+3) volo Newyork cliente: cognome1 cliente1 Posti: 2 PrezzoTotale: 200 
+4) volo Bali cliente: cognome2 cliente2 Posti: 3 PrezzoTotale: 300 
